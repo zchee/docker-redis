@@ -5,6 +5,7 @@ Redis 3.0.0 Testing and Unstable version Dockerize. Based Dockerfile from [docke
 - [`2.6.17`, `2.6` (*2.6/Dockerfile*)](https://github.com/docker-library/redis/blob/062335e0a8d20cab2041f25dfff2fbaf58544471/2.6/Dockerfile)
 - [`2.8.19`, `2.8`, `2`, `latest` (*2.8/Dockerfile*)](https://github.com/docker-library/redis/blob/062335e0a8d20cab2041f25dfff2fbaf58544471/2.8/Dockerfile)
 - [`3.0`, `3.0.0-rc6`, `testing` (*3.0/Dockerfile*)](3.0.0-rc6/Dockerfile)
+- [`unstable` (*unstable/Dockerfile*)](unstable/Dockerfile)
 
 For more information about this image and its history, please see the [relevant manifest file (`library/redis`)](https://github.com/docker-library/official-images/blob/master/library/redis) in the [`docker-library/official-images` GitHub repo](https://github.com/docker-library/official-images).
 
